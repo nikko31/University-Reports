@@ -1,0 +1,886 @@
+Starting...
+
+Creating normal tasks
+
+Creating normal tasks
+
+Creating normal tasks
+
+Creating normal tasks
+
+Creating coordinator tasks
+
+Starting scheduling
+
+Starting to process for id: 0
+
+Checking LED 10
+
+Writing LOW
+
+Checking LED done
+
+Yielding the control from id: 0
+
+Starting to process for id: 1
+
+Checking LED 11
+
+Writing LOW
+
+Checking LED done
+
+Yielding the control from id: 1
+
+Starting to process for id: 2
+
+Checking LED 12
+
+Writing LOW
+
+Checking LED done
+
+Yielding the control from id: 2
+
+Starting to process for id: 3
+
+Checking LED 13
+
+Writing LOW
+
+Checking LED done
+
+Yielding the control from id: 3
+
+Checking pin 10
+
+Checking pin 11
+
+Checking pin 12
+
+Checking pin 13
+
+Counter 1
+
+Coordinator yields
+
+Starting to process for id: 0
+
+Checking LED 10
+
+Writing HIGH
+
+Checking LED done
+
+Yielding the control from id: 0
+
+Starting to process for id: 1
+
+Checking LED 11
+
+Writing LOW
+
+Checking LED done
+
+Yielding the control from id: 1
+
+Starting to process for id: 2
+
+Checking LED 12
+
+Writing LOW
+
+Checking LED done
+
+Yielding the control from id: 2
+
+Starting to process for id: 3
+
+Checking LED 13
+
+Writing LOW
+
+Checking LED done
+
+Yielding the control from id: 3
+
+Checking pin 10
+
+Checking pin 11
+
+Checking pin 12
+
+Checking pin 13
+
+Counter 2
+
+Coordinator yields
+
+Starting to process for id: 0
+
+Checking LED 10
+
+Writing LOW
+
+Checking LED done
+
+Yielding the control from id: 0
+
+Starting to process for id: 1
+
+Checking LED 11
+
+Writing HIGH
+
+Checking LED done
+
+Yielding the control from id: 1
+
+Starting to process for id: 2
+
+Checking LED 12
+
+Writing LOW
+
+Checking LED done
+
+Yielding the control from id: 2
+
+Starting to process for id: 3
+
+Checking LED 13
+
+Writing LOW
+
+Checking LED done
+
+Yielding the control from id: 3
+
+Checking pin 10
+
+Checking pin 11
+
+Checking pin 12
+
+Checking pin 13
+
+Counter 3
+
+Coordinator yields
+
+Starting to process for id: 0
+
+Checking LED 10
+
+Writing HIGH
+
+Checking LED done
+
+Yielding the control from id: 0
+
+Starting to process for id: 1
+
+Checking LED 11
+
+Writing HIGH
+
+Checking LED done
+
+Yielding the control from id: 1
+
+Starting to process for id: 2
+
+Checking LED 12
+
+Writing LOW
+
+Checking LED done
+
+Yielding the control from id: 2
+
+Starting to process for id: 3
+
+Checking LED 13
+
+Writing LOW
+
+Checking LED done
+
+Yielding the control from id: 3
+
+Checking pin 10
+
+Checking pin 11
+
+Checking pin 12
+
+Checking pin 13
+
+Counter 4
+
+Coordinator yields
+
+Starting to process for id: 0
+
+Checking LED 10
+
+Writing LOW
+
+Checking LED done
+
+Yielding the control from id: 0
+
+Starting to process for id: 1
+
+Checking LED 11
+
+Writing LOW
+
+Checking LED done
+
+Yielding the control from id: 1
+
+Starting to process for id: 2
+
+Checking LED 12
+
+Writing HIGH
+
+Checking LED done
+
+Yielding the control from id: 2
+
+Starting to process for id: 3
+
+Checking LED 13
+
+Writing LOW
+
+Checking LED done
+
+Yielding the control from id: 3
+
+Checking pin 10
+
+Checking pin 11
+
+Checking pin 12
+
+Checking pin 13
+
+Counter 5
+
+Coordinator yields
+
+Starting to process for id: 0
+
+Checking LED 10
+
+Writing HIGH
+
+Checking LED done
+
+Yielding the control from id: 0
+
+Starting to process for id: 1
+
+Checking LED 11
+
+Writing LOW
+
+Checking LED done
+
+Yielding the control from id: 1
+
+Starting to process for id: 2
+
+Checking LED 12
+
+Writing HIGH
+
+Checking LED done
+
+Yielding the control from id: 2
+
+Starting to process for id: 3
+
+Checking LED 13
+
+Writing LOW
+
+Checking LED done
+
+Yielding the control from id: 3
+
+Checking pin 10
+
+Checking pin 11
+
+Checking pin 12
+
+Checking pin 13
+
+Counter 6
+
+Coordinator yields
+
+Starting to process for id: 0
+
+Checking LED 10
+
+Writing LOW
+
+Checking LED done
+
+Yielding the control from id: 0
+
+Starting to process for id: 1
+
+Checking LED 11
+
+Writing HIGH
+
+Checking LED done
+
+Yielding the control from id: 1
+
+Starting to process for id: 2
+
+Checking LED 12
+
+Writing HIGH
+
+Checking LED done
+
+Yielding the control from id: 2
+
+Starting to process for id: 3
+
+Checking LED 13
+
+Writing LOW
+
+Checking LED done
+
+Yielding the control from id: 3
+
+Checking pin 10
+
+Checking pin 11
+
+Checking pin 12
+
+Checking pin 13
+
+Counter 7
+
+Coordinator yields
+
+Starting to process for id: 0
+
+Checking LED 10
+
+Writing HIGH
+
+Checking LED done
+
+Yielding the control from id: 0
+
+Starting to process for id: 1
+
+Checking LED 11
+
+Writing HIGH
+
+Checking LED done
+
+Yielding the control from id: 1
+
+Starting to process for id: 2
+
+Checking LED 12
+
+Writing HIGH
+
+Checking LED done
+
+Yielding the control from id: 2
+
+Starting to process for id: 3
+
+Checking LED 13
+
+Writing LOW
+
+Checking LED done
+
+Yielding the control from id: 3
+
+Checking pin 10
+
+Checking pin 11
+
+Checking pin 12
+
+Checking pin 13
+
+Counter 8
+
+Coordinator yields
+
+Starting to process for id: 0
+
+Checking LED 10
+
+Writing LOW
+
+Checking LED done
+
+Yielding the control from id: 0
+
+Starting to process for id: 1
+
+Checking LED 11
+
+Writing LOW
+
+Checking LED done
+
+Yielding the control from id: 1
+
+Starting to process for id: 2
+
+Checking LED 12
+
+Writing LOW
+
+Checking LED done
+
+Yielding the control from id: 2
+
+Starting to process for id: 3
+
+Checking LED 13
+
+Writing HIGH
+
+Checking LED done
+
+Yielding the control from id: 3
+
+Checking pin 10
+
+Checking pin 11
+
+Checking pin 12
+
+Checking pin 13
+
+Counter 9
+
+Coordinator yields
+
+Starting to process for id: 0
+
+Checking LED 10
+
+Writing HIGH
+
+Checking LED done
+
+Yielding the control from id: 0
+
+Starting to process for id: 1
+
+Checking LED 11
+
+Writing LOW
+
+Checking LED done
+
+Yielding the control from id: 1
+
+Starting to process for id: 2
+
+Checking LED 12
+
+Writing LOW
+
+Checking LED done
+
+Yielding the control from id: 2
+
+Starting to process for id: 3
+
+Checking LED 13
+
+Writing HIGH
+
+Checking LED done
+
+Yielding the control from id: 3
+
+Checking pin 10
+
+Checking pin 11
+
+Checking pin 12
+
+Checking pin 13
+
+Counter 10
+
+Coordinator yields
+
+Starting to process for id: 0
+
+Checking LED 10
+
+Writing LOW
+
+Checking LED done
+
+Yielding the control from id: 0
+
+Starting to process for id: 1
+
+Checking LED 11
+
+Writing HIGH
+
+Checking LED done
+
+Yielding the control from id: 1
+
+Starting to process for id: 2
+
+Checking LED 12
+
+Writing LOW
+
+Checking LED done
+
+Yielding the control from id: 2
+
+Starting to process for id: 3
+
+Checking LED 13
+
+Writing HIGH
+
+Checking LED done
+
+Yielding the control from id: 3
+
+Checking pin 10
+
+Checking pin 11
+
+Checking pin 12
+
+Checking pin 13
+
+Counter 11
+
+Coordinator yields
+
+Starting to process for id: 0
+
+Checking LED 10
+
+Writing HIGH
+
+Checking LED done
+
+Yielding the control from id: 0
+
+Starting to process for id: 1
+
+Checking LED 11
+
+Writing HIGH
+
+Checking LED done
+
+Yielding the control from id: 1
+
+Starting to process for id: 2
+
+Checking LED 12
+
+Writing LOW
+
+Checking LED done
+
+Yielding the control from id: 2
+
+Starting to process for id: 3
+
+Checking LED 13
+
+Writing HIGH
+
+Checking LED done
+
+Yielding the control from id: 3
+
+Checking pin 10
+
+Checking pin 11
+
+Checking pin 12
+
+Checking pin 13
+
+Counter 12
+
+Coordinator yields
+
+Starting to process for id: 0
+
+Checking LED 10
+
+Writing LOW
+
+Checking LED done
+
+Yielding the control from id: 0
+
+Starting to process for id: 1
+
+Checking LED 11
+
+Writing LOW
+
+Checking LED done
+
+Yielding the control from id: 1
+
+Starting to process for id: 2
+
+Checking LED 12
+
+Writing HIGH
+
+Checking LED done
+
+Yielding the control from id: 2
+
+Starting to process for id: 3
+
+Checking LED 13
+
+Writing HIGH
+
+Checking LED done
+
+Yielding the control from id: 3
+
+Checking pin 10
+
+Checking pin 11
+
+Checking pin 12
+
+Checking pin 13
+
+Counter 13
+
+Coordinator yields
+
+Starting to process for id: 0
+
+Checking LED 10
+
+Writing HIGH
+
+Checking LED done
+
+Yielding the control from id: 0
+
+Starting to process for id: 1
+
+Checking LED 11
+
+Writing LOW
+
+Checking LED done
+
+Yielding the control from id: 1
+
+Starting to process for id: 2
+
+Checking LED 12
+
+Writing HIGH
+
+Checking LED done
+
+Yielding the control from id: 2
+
+Starting to process for id: 3
+
+Checking LED 13
+
+Writing HIGH
+
+Checking LED done
+
+Yielding the control from id: 3
+
+Checking pin 10
+
+Checking pin 11
+
+Checking pin 12
+
+Checking pin 13
+
+Counter 14
+
+Coordinator yields
+
+Starting to process for id: 0
+
+Checking LED 10
+
+Writing LOW
+
+Checking LED done
+
+Yielding the control from id: 0
+
+Starting to process for id: 1
+
+Checking LED 11
+
+Writing HIGH
+
+Checking LED done
+
+Yielding the control from id: 1
+
+Starting to process for id: 2
+
+Checking LED 12
+
+Writing HIGH
+
+Checking LED done
+
+Yielding the control from id: 2
+
+Starting to process for id: 3
+
+Checking LED 13
+
+Writing HIGH
+
+Checking LED done
+
+Yielding the control from id: 3
+
+Checking pin 10
+
+Checking pin 11
+
+Checking pin 12
+
+Checking pin 13
+
+Counter 15
+
+Coordinator yields
+
+Starting to process for id: 0
+
+Checking LED 10
+
+Writing HIGH
+
+Checking LED done
+
+Yielding the control from id: 0
+
+Starting to process for id: 1
+
+Checking LED 11
+
+Writing HIGH
+
+Checking LED done
+
+Yielding the control from id: 1
+
+Starting to process for id: 2
+
+Checking LED 12
+
+Writing HIGH
+
+Checking LED done
+
+Yielding the control from id: 2
+
+Starting to process for id: 3
+
+Checking LED 13
+
+Writing HIGH
+
+Checking LED done
+
+Yielding the control from id: 3
+
+Checking pin 10
+
+Checking pin 11
+
+Checking pin 12
+
+Checking pin 13
+
+Counter 16
+
+Coordinator yields
+
+Starting to process for id: 0
+
+Checking LED 10
+
+Writing LOW
+
+Checking LED done
+
+Yielding the control from id: 0
+
+Starting to process for id: 1
+
+Checking LED 11
+
+Writing LOW
+
+Checking LED done
+
+Yielding the control from id: 1
+
+Starting to process for id: 2
+
+Checking LED 12
+
+Writing LOW
+
+Checking LED done
+
+Yielding the control from id: 2
+
+Starting to process for id: 3
+
+Checking LED 13
+
+Writing LOW
+
+Checking LED done
+
+Yielding the control from id: 3
+
